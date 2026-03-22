@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="TDD.Application/TDD.Application.csproj" />
+  <Project Path="TDD.Domain/TDD.Domain.csproj" />
+  <Project Path="TDD.Infrastructure/TDD.Infrastructure.csproj" />
+  <Project Path="TDD.Tests/TDD.Tests.csproj" />
+  <Project Path="TDD.WebApi/TDD.WebApi.csproj" />
+</Solution>
