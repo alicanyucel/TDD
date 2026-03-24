@@ -1,7 +1,5 @@
 ﻿namespace TDD.Infrastructure
 {
-    public class Class1
-    {
-
-    }
+    [Fact]
+   public void Tes1()
 }

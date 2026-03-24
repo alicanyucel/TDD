@@ -1,4 +1,7 @@
 <Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="Readme.md" />
+  </Folder>
   <Project Path="TDD.Application/TDD.Application.csproj" />
   <Project Path="TDD.Domain/TDD.Domain.csproj" />
   <Project Path="TDD.Infrastructure/TDD.Infrastructure.csproj" />
